@@ -1,0 +1,425 @@
+{
+  "paths": [
+    {
+      "_path": "Lib/site-packages/aiobotocore-2.12.3.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore-2.12.3.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "6e4df8d7d4265f2aaa8c34db5cf7ff048baa920a165bac3cac23f10453d1e63e",
+      "size_in_bytes": 11516
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore-2.12.3.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "a1e1fc051f00eebe035abb567d8a910317295b97c3033f3e2fe1e139ea58a46d",
+      "size_in_bytes": 22349
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore-2.12.3.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "6abda71280c23449308d3ba3276dcd0b5e2b019c52567b587f9a3ee75f763a93",
+      "size_in_bytes": 4903
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore-2.12.3.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore-2.12.3.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore-2.12.3.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "9e5865ddf016080cbd5bf2f9f21e0cc7f2a0ffb9b2ec87e9eaf049be95eefd14",
+      "size_in_bytes": 91
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore-2.12.3.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "4f733dc4c8221fb76cd8590c59b92eb782f3819c78f0cad9c3cc669ed8331aed",
+      "size_in_bytes": 12
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "a0c2868e33f112e5909f49316b58b76e4c114ec065c46001ff2d46865a90377c",
+      "size_in_bytes": 23
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "2aa03f3eab33b3824bace815d93c9f5ccd446b2bd4ea282da22565338725e636",
+      "size_in_bytes": 165
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/_endpoint_helpers.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "31a9a84aa4deff0c7ea8c3bc8dc5cd41edef561e4ecd8e7db005957b78bbf46a",
+      "size_in_bytes": 1407
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/_helpers.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "80047bc63e50c24ba3b92b3490931563720ce7c7bcd1f8bd0d0186d82a69d3dd",
+      "size_in_bytes": 820
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/args.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "9f148447b6d6af7ae50ffb21bbf97d4309c1c014343511f231e4c9fa77024f4c",
+      "size_in_bytes": 5094
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/awsrequest.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "539a62ba3190265d88bc901e9d85a2711d3315c4dd159acfa56c308b43531785",
+      "size_in_bytes": 1772
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/client.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "a3828d29c971781b0de11bd6eedbca9601e3e1ad46208c8a5c7a9b4633b76c28",
+      "size_in_bytes": 23599
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/config.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "3441c1800915b1f21350cec7c2b9f642de9390af812b78ddcd394e254e87bc33",
+      "size_in_bytes": 2964
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/configprovider.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "d7d16b685ab9865e81635936f11bdd776768b10d635b4f56bd7474a13c070f0e",
+      "size_in_bytes": 2116
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/credentials.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "8dc62653a0410ecc93a122b1ab273f05d3409bf8560262d08b04d6939f52a009",
+      "size_in_bytes": 46936
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/discovery.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "29b6d7a58325094426f0a4a9c8243d612c5f16188d3d609ea83bf8eef2aefc58",
+      "size_in_bytes": 4119
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/endpoint.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "149dab726cd40314c5b7147c8468cdab242886023cc23d1e2e3af5e743d3497d",
+      "size_in_bytes": 12353
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/eventstream.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "931a0cb3dc112e3ef2a85c2bbd0b02bda4a5c0a6f4170e8edd99298caae57e49",
+      "size_in_bytes": 2430
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/handlers.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "ca10bd28c308cc31ae8d04068933f294b23da8a52ce885d7880bbf8b2289354f",
+      "size_in_bytes": 3100
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/hooks.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "de3d622de4a8486cedd3e4c3f2f6c63287f1185a9567f8b31ddd54506033530e",
+      "size_in_bytes": 3014
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/httpchecksum.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "9b52fba7bfc0fb399ae5d1e28093b9e92396de3db4340df861b5c2ef51507360",
+      "size_in_bytes": 5895
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/httpsession.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "425d7f472e546ac4ee6e76d51abf5e241972675f34fbef4f4c4ea9004f60ff27",
+      "size_in_bytes": 10967
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/paginate.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "bd2cf946d3ded7a7c4056c84a722c0bb1a9c511ee39a8e2bb053259f3e435793",
+      "size_in_bytes": 6944
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/parsers.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "e9b0662573f680ff68a0bb9468ea6769028906abfd399288a5d5dcfc92db6ac6",
+      "size_in_bytes": 6004
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/regions.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "ea3be2ec8cf93529aa72d134b235642ad4fca78c6976f0734377f2e8b37b9527",
+      "size_in_bytes": 4207
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/response.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "935980aa635032c17b39e0413625fda9d3bb2236e1e605b50649fefeb3fd2273",
+      "size_in_bytes": 7561
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/retryhandler.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "081ab8ee4fdf8834d3d769f35c50a6fe1a5ff74e052bdc3480934b7aedc4caa5",
+      "size_in_bytes": 8853
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/session.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "947b50ac93cfbdc83e0cc951189bd003494a7384ba61efc5d11700bbc935fd09",
+      "size_in_bytes": 10884
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/signers.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "e9c6b273624fb1fa0e5165040ce1cfda983d3244e7d9f9399e594cea73074808",
+      "size_in_bytes": 13905
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/stub.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "65377f7b8c061ca4b61c801f761d33ba98df350a6619414701a2be8479ef494c",
+      "size_in_bytes": 4331
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/tokens.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "4bd3535ee956be1a93ffa0533ae106078573d7917f2932fc110895491a7293d9",
+      "size_in_bytes": 7709
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/utils.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "d90994bc43991c5b9a7a83a1df5a65df904c73be8d444919a8dcc9078cf07f0e",
+      "size_in_bytes": 33677
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/__pycache__/waiter.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "2d4db44beb714d13f837d37b4fa688217db09f41d275d0722dde025b8b288dd2",
+      "size_in_bytes": 5283
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/_endpoint_helpers.py",
+      "path_type": "hardlink",
+      "sha256": "9a67d370cb211859145cb4893bfb667ff68cbaad2526b18f6b7b520dfac960da",
+      "size_in_bytes": 1010
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/_helpers.py",
+      "path_type": "hardlink",
+      "sha256": "de744d56681b8d443308554583cb5ff3cd4c49fdf5e130b0555cc5eba7b8b695",
+      "size_in_bytes": 501
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/args.py",
+      "path_type": "hardlink",
+      "sha256": "29ddfe16d334d732b044c2476be8360aeb6ab530c0ade283e7986544426bdc4a",
+      "size_in_bytes": 7084
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/awsrequest.py",
+      "path_type": "hardlink",
+      "sha256": "e30f6e6e2eed8e85d82615e7ff804fd1666a7c5e95ce1c200d719ebfdb761c84",
+      "size_in_bytes": 813
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/client.py",
+      "path_type": "hardlink",
+      "sha256": "705658660d6638a28065f0c071d1650fce5cc840d7ca0941ad8dd923fc0c0ecd",
+      "size_in_bytes": 24011
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/config.py",
+      "path_type": "hardlink",
+      "sha256": "5e3ec9888f8273b67d82d25d32bafb9586f92f27b92c8c0cc0f7558b04f6083c",
+      "size_in_bytes": 2888
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/configprovider.py",
+      "path_type": "hardlink",
+      "sha256": "d9d10a6ae03718d8e3c9edfc03581962ff656357af840e61c1f6e661067dc200",
+      "size_in_bytes": 1509
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/credentials.py",
+      "path_type": "hardlink",
+      "sha256": "4940e12b4348dd40910f8ac29083fdd886c8a6e4607ee36765d1953c0e352c62",
+      "size_in_bytes": 39265
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/discovery.py",
+      "path_type": "hardlink",
+      "sha256": "bf75d20a748b81482e64fc798963f5b539ac8839f3ab2572eac8132ce5894341",
+      "size_in_bytes": 3613
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/endpoint.py",
+      "path_type": "hardlink",
+      "sha256": "0aa5e7846f49674bf12b1070552d7cda990d671b22d0414437a01d3982e70f00",
+      "size_in_bytes": 12153
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/eventstream.py",
+      "path_type": "hardlink",
+      "sha256": "9bfddb9774ad81f8b719a6af766bec3ab8bd964ae15301d8205e91a28f501883",
+      "size_in_bytes": 1252
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/handlers.py",
+      "path_type": "hardlink",
+      "sha256": "6e3a7fba3c172381171c895bb34d51995105516621ef6e51ca0540684dd9015d",
+      "size_in_bytes": 4500
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/hooks.py",
+      "path_type": "hardlink",
+      "sha256": "4727cd5ef92638d608977cf86194468233bdd2b11724c7103c7e288170f9bf36",
+      "size_in_bytes": 3338
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/httpchecksum.py",
+      "path_type": "hardlink",
+      "sha256": "756f7a0ef7130f275206d390ba4712e59b2ece53b73bae22bbab429e0a79fa7b",
+      "size_in_bytes": 5540
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/httpsession.py",
+      "path_type": "hardlink",
+      "sha256": "64a242497d7a9191d8401266d76227b44f1ed70d272f9706249fde75439ff901",
+      "size_in_bytes": 9807
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/paginate.py",
+      "path_type": "hardlink",
+      "sha256": "dfee485a436c356d75345f299d9e2d107cfa629f93c45e500612564d29ffdaf0",
+      "size_in_bytes": 8030
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/parsers.py",
+      "path_type": "hardlink",
+      "sha256": "571337fa33f5cc668f2cd17bf94de4591106d7ce64adce72d7d74e53b22cb286",
+      "size_in_bytes": 4902
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/regions.py",
+      "path_type": "hardlink",
+      "sha256": "d274ace1a2ec08bb52d52d0279992bcfd4dc58a117a1c92d230191ce28fe80a7",
+      "size_in_bytes": 4002
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/response.py",
+      "path_type": "hardlink",
+      "sha256": "3eeed3f1e665c308a7d00c06b6d304816c6b4c4ce16397b5d04a4f4f3023566e",
+      "size_in_bytes": 5465
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/retries/__pycache__/adaptive.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "48714756ff087c817ef9fda227825170b890aa2b097f70ff6181dd96edfe521d",
+      "size_in_bytes": 4449
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/retries/__pycache__/bucket.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "f883c7e6dd6770fb06621c9dece92302af52ed184ec9477dd49aa520e7af97c0",
+      "size_in_bytes": 5481
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/retries/__pycache__/special.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "ed5b984c2e317463bdc80d655c6b2cd16e926b4ae0f0a043e3bb6a747b3f1a2c",
+      "size_in_bytes": 1439
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/retries/__pycache__/standard.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "e1583effa47e5e54fc948af342433dc42c10e6e224584ff6f65cf72851f06294",
+      "size_in_bytes": 5536
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/retries/adaptive.py",
+      "path_type": "hardlink",
+      "sha256": "239fd87979a8d8ad2b5103f729c32422e63655b769c19144593abe8078fcd979",
+      "size_in_bytes": 3573
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/retries/bucket.py",
+      "path_type": "hardlink",
+      "sha256": "735d38283dee0bfcccc9c4d3cbaa9cd12dea796b10c5837b826cbc299c595bc7",
+      "size_in_bytes": 4298
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/retries/special.py",
+      "path_type": "hardlink",
+      "sha256": "396d3cdf53cbc5b35ef3804713ffb440101daa2ae38607d4db9636a015507cdd",
+      "size_in_bytes": 861
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/retries/standard.py",
+      "path_type": "hardlink",
+      "sha256": "c39e2c2dc0fd3a0262712ed9b0dae99d1e073961ce8ea260ffd49f1b3e876487",
+      "size_in_bytes": 3838
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/retryhandler.py",
+      "path_type": "hardlink",
+      "sha256": "e377076d4e042231ef13f7a0442638044684691429c6621834751f0feeb830cf",
+      "size_in_bytes": 7961
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/session.py",
+      "path_type": "hardlink",
+      "sha256": "31c1d53f70defc9b39fbd6cff10970d64a17a33619000e53962cf48ae3902e55",
+      "size_in_bytes": 9507
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/signers.py",
+      "path_type": "hardlink",
+      "sha256": "a03e805506021e532389f9ef684eb413d14d522c883a13ae874562f5446cbde0",
+      "size_in_bytes": 14592
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/stub.py",
+      "path_type": "hardlink",
+      "sha256": "d9c33e4e9263ab2af8d28039680f7b9199e497c9b673787f554dba6dbd94601a",
+      "size_in_bytes": 4269
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/tokens.py",
+      "path_type": "hardlink",
+      "sha256": "e2769f900bd388f670f7e5d316f1e4b5e40b188c1376f000e1f2ab47f2bfa42c",
+      "size_in_bytes": 5757
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/utils.py",
+      "path_type": "hardlink",
+      "sha256": "3f8b8982b3415fb4d7a62b039d9f52cfb1b0773d60cd23152734e1642285a29f",
+      "size_in_bytes": 27333
+    },
+    {
+      "_path": "Lib/site-packages/aiobotocore/waiter.py",
+      "path_type": "hardlink",
+      "sha256": "72e3b875ce51d7a78ece1dbfc62188ab127d9e2d316146b6aff7d769bdf2eeb6",
+      "size_in_bytes": 5169
+    }
+  ],
+  "paths_version": 1
+}
