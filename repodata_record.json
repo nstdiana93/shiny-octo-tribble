@@ -1,0 +1,25 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "boto3 >=1.34.41,<1.34.70"
+  ],
+  "depends": [
+    "aiohttp >=3.7.4.post0,<4.0.0",
+    "aioitertools >=0.5.1,<1.0.0",
+    "botocore >=1.34.41,<1.34.70",
+    "python >=3.12,<3.13.0a0",
+    "wrapt >=1.10.10,<2.0.0"
+  ],
+  "fn": "aiobotocore-2.12.3-py312haa95532_0.conda",
+  "license": "Apache-2.0",
+  "md5": "3bb5d7e894fe5b86d3493c9271ef9ec7",
+  "name": "aiobotocore",
+  "sha256": "e2fd449706f8e5edcd65a43ba47ec7bfb5f270f5e9ecae62204c4871c1365e12",
+  "size": 161464,
+  "subdir": "win-64",
+  "timestamp": 1714464790000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aiobotocore-2.12.3-py312haa95532_0.conda",
+  "version": "2.12.3"
+}
